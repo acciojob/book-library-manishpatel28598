@@ -14,13 +14,14 @@ body{
     box-shadow: 5px 10px 10px 5px;
 }
 .booksec1{
-    text-align:center;
+    text-align: center;
 }
 .line{
     border: 5px solid white; 
 }
 .book{
 	font-size: 10px;
+	text-align:start;
 }
 
 .img{
