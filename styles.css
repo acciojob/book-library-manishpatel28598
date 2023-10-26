@@ -22,6 +22,7 @@ body{
 .book{
 	font-size: 10px;
 	text-align:start;
+	background-color:
 }
 
 .img{
@@ -35,6 +36,7 @@ body{
     background-color: #2ecc71;
     text-align: center;
     padding: 5px;
+	color: white;
 }
 .sec1{
     margin:10px;
