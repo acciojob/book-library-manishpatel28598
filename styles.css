@@ -6,10 +6,10 @@
 }
 body{
     width:100%;
-    background-color: #DFDFDF;
+    background-color: #f8f8f8;
 }
 .book-library{
-    background-color: #DFDFDF;
+    background-color: #ffffff;
     margin:25px;
     box-shadow: 5px 10px 10px 5px;
 }
@@ -33,11 +33,14 @@ body{
     margin-top:5px;
 	padding-bottom:30px; 
 }
-.pricing{
+.Price-block{
     background-color: #2ecc71;
     text-align: center;
     padding: 5px;
 	color: white;
+}
+.author{
+	color: #777777;
 }
 .sec1{
     margin:10px;
